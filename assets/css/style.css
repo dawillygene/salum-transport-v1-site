@@ -72,19 +72,23 @@ custom.css and it will override the style in this file. You have been warned! :)
 		#CSS VARIBALES
 \*------------------------------------*/
 :root {
-	--global--color-primary   : #32c36c;
-	--global--color-primary-90: rgba(50, 195, 108, 0.9);
-	--global--color-primary-70: rgba(50, 195, 108, 0.7);
-	--global--color-heading   : #253745;
-	--global--color-secondary : #2b3e4b;
-	--global--color-body      : #9b9b9b;
-	--global--color-white     : #ffffff;
-	--global--color-white-90  : rgba(255, 255, 255, 0.9);
-	--global--color-gray      : #f9f9f9;
-	--global--font-body       : 'Roboto', sans-serif;
-	--global--font-heading    : 'IBM Plex Sans', sans-serif;
-	--global--font-secondary  : 'Heebo', sans-serif;
+    --global--color-primary   : #d32f2f; /* A richer, slightly muted red */
+    --global--color-primary-90: rgba(211, 47, 47, 0.9); /* 90% opacity red */
+    --global--color-primary-70: rgba(211, 47, 47, 0.7); /* 70% opacity red */
+    
+    --global--color-heading   : #1c1c1e; /* Almost black, for bold contrast */
+    --global--color-secondary : #37474f; /* Deep charcoal gray for sophistication */
+    --global--color-body      : #757575; /* Medium gray, smooth readability */
+    --global--color-white     : #ffffff; /* Pure white */
+    --global--color-white-90  : rgba(255, 255, 255, 0.9); /* White with slight transparency */
+    --global--color-gray      : #f5f5f5; /* Light gray, subtle background */
+    
+    /* Updated font choices */
+    --global--font-body       : 'Lato', sans-serif; /* Modern, clean body font */
+    --global--font-heading    : 'Playfair Display', serif; /* Elegant, classic for headings */
+    --global--font-secondary  : 'Montserrat', sans-serif; /* Sleek and modern secondary font */
 }
+
 
 /*------------------------------------*\
 		#RESET
