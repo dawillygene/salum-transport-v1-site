@@ -70,7 +70,7 @@
               <div class="slide-content">
                 <h1 class="slide-headline">Salum Transport company LTD</h1>
                 <p class="slide-desc">Welcome to Salum Transport Company Limited, located in Mwera Kigorofani, Zanzibar. We are proud to offer reliable fuel sales, including petrol, diesel, and kerosene, as well as efficient transportation services for hotel staff across the island.</p>
-                <div class="slide-action"><a class="btn btn--primary" href="page-services.html"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.html">more about us!</a></div>
+                <div class="slide-action"><a class="btn btn--primary" href="page-services.php"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.html">more about us!</a></div>
               </div>
             </div>
           </div>
@@ -144,7 +144,7 @@
     <div class="row">
       <div class="more-features more-features-2">
         <p>Experience reliable transportation and fuel services with Salum Transport</p>
-        <a class="btn btn--bordered btn--white" href="services.html">explore our services</a>
+        <a class="btn btn--bordered btn--white" href="page-services.php">explore our services</a>
       </div>
     </div>
   </div>
@@ -159,10 +159,10 @@
         <div class="col-12 col-lg-6">
           <p class="heading-desc">Salum Transport Company Limited provides high-quality fuel products, including petrol, diesel, and kerosene, to meet the growing demands of businesses and individuals in Zanzibar. Additionally, we offer reliable staff transportation services for hotel employees, ensuring timely and safe travel to their residences across the island.</p>
           <div class="actions-holder">
-            <a class="btn btn--primary" href="page-about.html">
+            <a class="btn btn--primary" href="page-services.php">
               read more<i class="energia-arrow-right"></i>
             </a>
-            <a class="btn btn--bordered btn--white" href="page-services.html">
+            <a class="btn btn--bordered btn--white" href="page-services.php">
               find your solution
             </a>
           </div>
@@ -176,7 +176,7 @@
           <div class="service-content">
             <h4><a href="services-fuel.html">Fuel Supply Services</a></h4>
             <p>We supply premium-grade petrol, diesel, and kerosene to customers across Zanzibar, ensuring you get reliable energy for all your needs.</p>
-            <a class="btn btn--secondary" href="services-fuel.html">read more <i class="energia-arrow-right"></i></a>
+            <a class="btn btn--secondary" href="page-services.php">read more <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -186,7 +186,7 @@
           <div class="service-content">
             <h4><a href="services-transport.html">Staff Transportation Services</a></h4>
             <p>Our bus transportation service ensures hotel staff are safely and punctually transported to their residences from any hotel in Zanzibar.</p>
-            <a class="btn btn--secondary" href="services-transport.html">read more <i class="energia-arrow-right"></i></a>
+            <a class="btn btn--secondary" href="page-services.php">read more <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -218,7 +218,7 @@
           <h2 class="heading-title">Your Trusted Partner in Zanzibar for Fuel Supply and Staff Transportation!</h2>
           <p class="heading-desc">Salum Transport Company is committed to providing reliable and cost-effective fuel and transportation solutions. With years of experience, we ensure efficient supply chain management, timely deliveries, and safe transportation services for businesses and individuals across Zanzibar.</p>
           <div class="signature-block">
-            <a class="btn btn--secondary" href="page-about.html">read more <i class="energia-arrow-right"></i></a>
+            <a class="btn btn--secondary" href="page-about.php">read more <i class="energia-arrow-right"></i></a>
             <div class="signature-body">
               <h6>Salum Tom</h6>
               <p>Founder & CEO</p>
@@ -363,7 +363,7 @@
           <div class="processes-panel">
             <h3 class="panel-title">Reliable Fuel and Transportation Services Across Zanzibar!</h3>
             <p class="panel-desc">Our commitment ensures timely deliveries, cost efficiency, and the highest standards of service!</p>
-            <a href="page-contact.html">Schedule A Service <i class="energia-arrow-right"></i></a>
+            <a href="page-contact.php">Schedule A Service <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -437,7 +437,7 @@
             <h5>Reliable Fuel Supply & Transportation Services</h5>
             <div class="cta-content">
               <p>Salum Transport provides on-time fuel  and safe bus transportation for your staff. If you have any questions or need assistance, feel free to contact us at +255 777 416 880</p>
-              <a class="btn btn--bordered btn--white" href="contact-us.html">Contact Us <i class="energia-arrow-right"></i></a>
+              <a class="btn btn--bordered btn--white" href="page-contact.php">Contact Us <i class="energia-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -446,7 +446,7 @@
     <div class="row">
       <div class="col-12">
         <div class="more-actions">
-          <p>Fuel solutions and reliable transportation services tailored for your needs. <a href="services.html">Find Out More!</a></p>
+          <p>Fuel solutions and reliable transportation services tailored for your needs. <a href="page-services.php">Find Out More!</a></p>
         </div>
       </div>
     </div>

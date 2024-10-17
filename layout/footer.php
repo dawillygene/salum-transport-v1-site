@@ -19,22 +19,22 @@
                 </div>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-2">
-                <div class="footer-widget widget-links">
-                  <div class="footer-widget-title">
-                    <h5>Services</h5>
-                  </div>
-                  <div class="widget-content">
-                    <ul>
-                      <li><a href="services-turbines.html">Solar Panels</a></li>
-                      <li><a href="services-turbines.html">Wind Turbines</a></li>
-                      <li><a href="services-turbines.html">Hydropower Plants</a></li>
-                      <li><a href="services-turbines.html">Fossil Resources</a></li>
-                      <li><a href="services-turbines.html">Battery Materials</a></li>
-                      <li><a href="services-turbines.html">biofuels</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+  <div class="footer-widget widget-links">
+    <div class="footer-widget-title">
+      <h5>Services</h5>
+    </div>
+    <div class="widget-content">
+      <ul>
+        <li><a href="services-turbines.html">Fuel Sales (Petrol, Diesel, Kerosene)</a></li>
+        <li><a href="services-turbines.html">Bus Transportation for Staff</a></li>
+        <li><a href="services-turbines.html">Truck Rentals</a></li>
+        <li><a href="services-turbines.html">Vehicle Maintenance</a></li>
+        <li><a href="services-turbines.html">Logistics and Delivery</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
               <div class="col-12 col-sm-6 col-md-6 col-lg-5">
                 <div class="footer-widget widget-links widget-icon">
                   <div class="footer-widget-title">

@@ -57,45 +57,11 @@
           <div class="collapse navbar-collapse" id="navbarContent">
                         <ul class="navbar-nav me-auto">
                         <li class="nav-item active" id="contact" data-hover=""><a href="index.php"><span>Home</span></a></li>
-                          <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>company</span></a>
-                                        <ul class="dropdown-menu">
-                                          <li class="nav-item"><a href="page-about.html"><span>about us</span></a></li>
-                                          <li class="nav-item"><a href="page-how-works.html"><span>how it works</span></a></li>
-                                          <li class="nav-item"><a href="page-team.html"><span>leadership team</span></a></li>
-                                          <li class="nav-item"><a href="page-awards.html"><span>awards &amp; recognition</span></a></li>
-                                          <li class="nav-item"><a href="page-pricing.html"><span>pricing &amp; plans</span></a></li>
-                                          <li class="nav-item"><a href="page-faqs.html"><span>help &amp; fAQs</span></a></li>
-                                          <li class="nav-item"><a href="page-gallery.html"><span>our gallery</span></a></li>
-                                          <li class="nav-item"><a href="page-careers.html"><span>careers</span></a></li>
-                                          <li class="nav-item"><a href="shop-products.html"><span>shop</span></a></li>
-                                        </ul>
-                          </li>
-                          <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="page-services.html" data-toggle="dropdown"><span>services</span></a>
-                                        <ul class="dropdown-menu">
-                                          <li class="nav-item"><a href="services-turbines.html"><span>wind generators</span></a></li>
-                                          <li class="nav-item"><a href="services-solar.html"><span>solar pv materials</span></a></li>
-                                          <li class="nav-item"><a href="services-battery.html"><span>battery materials</span></a></li>
-                                          <li class="nav-item"><a href="services-plants.html"><span>hydropower plants</span></a></li>
-                                          <li class="nav-item"><a href="services-fossil.html"><span>fossil resources</span></a></li>
-                                          <li class="nav-item"><a href="services-controllers.html"><span>charge controllers</span></a></li>
-                                        </ul>
-                          </li>
-                          <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>projects</span></a>
-                                        <ul class="dropdown-menu">
-                                          <li class="nav-item"><a href="projects-standard.html"><span>projects standard</span></a></li>
-                                          <li class="nav-item"><a href="projects-modern.html"><span>projects modern</span></a></li>
-                                          <li class="nav-item"><a href="projects-grid.html"><span>projects grid</span></a></li>
-                                          <li class="nav-item"><a href="projects-single.html"><span>project single</span></a></li>
-                                        </ul>
-                          </li>
-                          <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>blog</span></a>
-                                        <ul class="dropdown-menu">
-                                          <li class="nav-item"><a href="blog-grid.html"><span>blog grid</span></a></li>
-                                          <li class="nav-item"><a href="blog-standard.html"><span>blog standard</span></a></li>
-                                          <li class="nav-item"><a href="blog-single.html"><span>single blog post</span></a></li>
-                                        </ul>
-                          </li>
-                          <li class="nav-item" id="contact" data-hover=""><a href="page-contact.html"><span>contact</span></a></li>
+                        <li class="nav-item" id="departments" data-hover=""><a href="page-services.php" data-toggle="dropdown"><span>services</span></a></li>
+                        <li class="nav-item " data-hover=""><a href="page-about.php" data-toggle="dropdown"><span>About Us</span></a></li>
+                        <li class="nav-item" id="contact" data-hover=""><a href="page-contact.php"><span>Contact</span></a></li>
+                        <li class="nav-item" data-hover=""><a href="page-gallery.php" data-toggle="dropdown"><span>Gallery</span></a></li>
+                       
                         </ul>
             <div class="module-holder">
               <div class="module-call"><i class="icons-energiaphone-call"> </i>
@@ -106,7 +72,7 @@
               <div class="module module-search">
                 <div class="module-icon module-icon-search"><i class="energia-search-Icon"></i></div>
               </div>
-              <div class="module-contact module-contact-2"><a class="btn btn--primary" href="request-quote.html">request a quote <i class="energia-arrow-right"></i></a></div>
+              <div class="module-contact module-contact-2"><a class="btn btn--primary" href="page-contact.php">request a quote <i class="energia-arrow-right"></i></a></div>
               <div class="module module-cart">
                 <div class="module-icon module-icon-cart"><i class="fas fa-shopping-cart"></i><span class="title">shop cart</span>
                   <label class="module-label">0</label>
