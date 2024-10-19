@@ -35,7 +35,7 @@
             <div class="card-content">
               <div class="content-top">
                 <p>As a leading provider of transportation and fuel distribution in Zanzibar, we are committed to delivering exceptional service. From staff transportation to fuel and building materials delivery, we ensure your needs are met on time, every time.</p>
-                <a href="page-contact.html"><i class="energia-arrow-right"></i> Our locations</a>
+                <a href="page-contact.php"><i class="energia-arrow-right"></i> Our locations</a>
               </div>
               <div class="content-bottom">
                 <ul class="list-unstyled contact-infos">
@@ -49,7 +49,7 @@
                     <p>Mon - Sat: 7:00 am - 8:00 pm</p>
                   </li>
                 </ul>
-                <a class="btn btn--white" href="page-about.html">About Us <i class="energia-arrow-right"></i></a>
+                <a class="btn btn--white" href="page-about.php">About Us <i class="energia-arrow-right"></i></a>
               </div>
             </div>
           </div>

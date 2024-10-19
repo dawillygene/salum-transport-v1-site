@@ -14,24 +14,27 @@
         </div><a class="module-cancel" href="#"><i class="fas fa-times"></i></a>
       </div>
       <section class="page-title page-title-7" id="page-title">
-        <div class="page-title-wrap bg-overlay bg-overlay-dark-3">
-          <div class="bg-section"><img src="assets/images/page-titles/7.jpg" alt="Background"/></div>
-          <div class="container">
-            <div class="row">
-              <div class="col-12 col-lg-5">
-                <div class="title">
-                  <h1 class="title-heading">Salum Transport Gallery</h1>
-                  <p class="title-desc">We offer products, solutions, and services across the entire energy value chain. We support our customers on their way to a more sustainable future.</p>
-                  <div class="title-action"> <a class="btn btn--bordered btn--white" href="page-contact.html"> <span>our core values</span></a></div>
-                </div>
-              </div>
-            </div>
+      <div class="page-title-wrap bg-overlay bg-overlay-dark-3">
+  <div class="bg-section"><img src="assets/images/page-titles/10.jpg" alt="Salum Transport Gallery"/></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-5">
+        <div class="title">
+          <h1 class="title-heading">Salum Transport Gallery</h1>
+          <p class="title-desc">Salum Transport Company offers comprehensive transportation services, including fuel supply, staff transportation, and logistics for construction materials. Our dedication to quality and sustainability ensures that we support our customers in reaching their goals efficiently and reliably.</p>
+          <div class="title-action"> 
+            <a class="btn btn--bordered btn--white" href="page-contact.php"> <span>Learn About Our Values</span></a>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
         <div class="breadcrumb-wrap">
           <div class="container">
             <ol class="breadcrumb d-flex">
-              <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
+              <li class="breadcrumb-item"><a href="index.php">Home</a></li>
               <li class="breadcrumb-item"><a href="#">company</a></li>
               <li class="breadcrumb-item active" aria-current="page">Gallery</li>
             </ol>

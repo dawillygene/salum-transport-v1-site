@@ -29,8 +29,8 @@
             <h1 class="title-heading">Our Services</h1>
             <p class="title-desc">At Salum Transport, we provide reliable transportation and fuel services across Zanzibar. From fuel sales to staff bus services, we are committed to meeting your transportation needs.</p>
             <div class="title-action">
-              <a class="btn btn--primary btn--inversed" href="page-contact.html">Get Started<i class="energia-arrow-right"></i></a>
-              <a class="btn btn--bordered btn--white" href="page-services.html">Explore Our Services</a>
+              <a class="btn btn--primary btn--inversed" href="page-contact.php">Get Started<i class="energia-arrow-right"></i></a>
+              <a class="btn btn--bordered btn--white" href="page-services.php">Explore Our Services</a>
             </div>
           </div>
 
@@ -38,7 +38,7 @@
         <div class="col-12">
           <div class="breadcrumb-wrap">
             <ol class="breadcrumb breadcrumb-light d-flex">
-              <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
+              <li class="breadcrumb-item"><a href="index.php">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Services</li>
             </ol>
           </div>
@@ -65,13 +65,13 @@
         <div class="service-panel">
           <div class="service-icon"><i class="flaticon-001-truck"></i></div>
           <div class="service-content">
-            <h4><a href="services-truck-rentals.html">Truck Rentals<br />and Services</a></h4>
+            <h4><a href="services-truck-rentals.php">Truck Rentals<br />and Services</a></h4>
             <p>We provide reliable truck rental services for material delivery and long-distance transport.</p>
             <ul class="list-unstyled advantages-list">
               <li>Well-maintained fleet</li>
               <li>Competitive pricing</li>
               <li>24/7 customer support</li>
-            </ul><a class="btn btn--secondary" href="services-truck-rentals.html">Read More <i class="energia-arrow-right"></i></a>
+            </ul><a class="btn btn--secondary" href="services-truck-rentals.php">Read More <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -80,13 +80,13 @@
         <div class="service-panel">
           <div class="service-icon"><i class="flaticon-002-bus"></i></div>
           <div class="service-content">
-            <h4><a href="services-staff-transport.html">Staff Transportation<br />Services</a></h4>
+            <h4><a href="services-staff-transport.php">Staff Transportation<br />Services</a></h4>
             <p>We offer staff transportation services for hotels and companies, ensuring timely and safe trips for employees.</p>
             <ul class="list-unstyled advantages-list">
               <li>Flexible schedules</li>
               <li>Comfortable buses</li>
               <li>Professional drivers</li>
-            </ul><a class="btn btn--secondary" href="services-staff-transport.html">Read More <i class="energia-arrow-right"></i></a>
+            </ul><a class="btn btn--secondary" href="services-staff-transport.php">Read More <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -95,13 +95,13 @@
         <div class="service-panel">
           <div class="service-icon"><i class="flaticon-003-fuel"></i></div>
           <div class="service-content">
-            <h4><a href="services-fuel-supply.html">Fuel Supply<br />Services</a></h4>
+            <h4><a href="services-fuel-supply.php">Fuel Supply<br />Services</a></h4>
             <p>We supply high-quality petrol, diesel, and kerosene to businesses, individuals, and fleets across Zanzibar.</p>
             <ul class="list-unstyled advantages-list">
               <li>Reliable fuel delivery</li>
               <li>Competitive pricing</li>
               <li>Fuel quality assurance</li>
-            </ul><a class="btn btn--secondary" href="services-fuel-supply.html">Read More <i class="energia-arrow-right"></i></a>
+            </ul><a class="btn btn--secondary" href="#">Read More <i class="energia-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -128,8 +128,8 @@
           <p class="heading-desc">At Salum Transport, we provide comprehensive transport services for both businesses and individuals, along with reliable fuel sales and bus transportation solutions. Our expertise ensures every delivery is handled professionally and efficiently.</p>
           <p class="heading-desc">We specialize in fuel distribution, providing petrol, diesel, and kerosene to meet the needs of businesses and hotels across Zanzibar.</p>
           <div class="actions-holder">
-            <a class="btn btn--primary btn--inversed" href="page-contact.html">Get Started<i class="energia-arrow-right"></i></a>
-            <a class="btn btn--bordered btn--white" href="page-about.html">Explore Our Services</a>
+            <a class="btn btn--primary btn--inversed" href="page-contact.php">Get Started<i class="energia-arrow-right"></i></a>
+            <a class="btn btn--bordered btn--white" href="page-about.php">Explore Our Services</a>
           </div>
         </div>
       </div>
@@ -144,7 +144,7 @@
               <h4>Fuel Supply</h4>
               <p>Providing top-quality petrol, diesel, and kerosene with competitive pricing for businesses and hotels.</p>
             </div>
-            <a href="page-about.html"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
+            <a href="page-about.php"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
           </div>
         </div>
       </div>
@@ -156,7 +156,7 @@
               <h4>Bus Transport Services</h4>
               <p>Offering reliable bus transportation for staff to and from hotels across Zanzibar.</p>
             </div>
-            <a href="page-about.html"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
+            <a href="page-about.php"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
           </div>
         </div>
       </div>
@@ -168,7 +168,7 @@
               <h4>Logistics & Delivery</h4>
               <p>We ensure smooth logistics for all your deliveries, from materials to fuel, across Zanzibar.</p>
             </div>
-            <a href="page-about.html"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
+            <a href="page-about.php"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
           </div>
         </div>
       </div>
@@ -180,7 +180,7 @@
               <h4>Experienced Team</h4>
               <p>Our experienced team ensures that all transport services are carried out efficiently and on time.</p>
             </div>
-            <a href="page-about.html"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
+            <a href="page-about.php"><i class="energia-arrow-right"></i> <span>Learn More</span></a>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@
     <div class="row">
       <div class="col-12">
         <div class="more-features more-features-3">
-          <p>Reliable transport and fuel solutions, <a href="page-services.html">Find Your Solution Now! </a></p>
+          <p>Reliable transport and fuel solutions, <a href="page-services.php">Find Your Solution Now! </a></p>
         </div>
       </div>
     </div>
@@ -204,7 +204,7 @@
             <div class="card-content">
               <div class="content-top">
                 <p>As a leading transport and fuel service provider in Zanzibar, we are here to assist you with all your logistics and fuel supply needs. Contact us today!</p>
-                <a href="page-contact.html"><i class="energia-arrow-right"></i>Office Locations</a>
+                <a href="page-contact.php"><i class="energia-arrow-right"></i>Office Locations</a>
               </div>
               <div class="content-bottom">
                 <ul class="list-unstyled contact-infos">
@@ -218,7 +218,7 @@
                     <p>Mon - Fri: 8:00 am - 6:00 pm</p>
                   </li>
                 </ul>
-                <a class="btn btn--white" href="page-contact.html">Contact Us <i class="energia-arrow-right"></i></a>
+                <a class="btn btn--white" href="page-contact.php">Contact Us <i class="energia-arrow-right"></i></a>
               </div>
             </div>
           </div>

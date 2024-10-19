@@ -27,7 +27,7 @@
             <h1 class="title-heading">About Salum Transport</h1>
             <p class="title-desc">Salum Transport Company Limited has been a leading provider of fuel sales and transportation services in Zanzibar since 2003. Our commitment is to deliver reliable and efficient transport for staff, construction materials, and fuel across the island.</p>
             <div class="title-action">
-              <a class="btn btn--primary" href="page-services.html"> 
+              <a class="btn btn--primary" href="page-services.php"> 
                 <span>Our Services</span><i class="energia-arrow-right"></i>
               </a>
               <a class="btn-video btn-video-2 popup-video" href="https://www.youtube.com/watch?v=nrJtHemSPW4">
@@ -42,7 +42,7 @@
   <div class="breadcrumb-wrap">
     <div class="container">
       <ol class="breadcrumb d-flex">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
         <li class="breadcrumb-item"><a href="#">Company</a></li>
         <li class="breadcrumb-item active" aria-current="page">About Us</li>
       </ol>
@@ -85,7 +85,7 @@
               <div class="block-left">
                 <p class="paragraph">Salum Transport Company Limited has been at the forefront of fuel sales and transportation services for over two decades. Our commitment is to ensure timely and reliable transportation services, whether for fuel, staff, or building materials.</p>
                 <p>Operating since 2003, we have continuously expanded our services, addressing the growing demand for fuel and logistics solutions on the island. We are proud to serve multiple industries and maintain a high level of customer satisfaction.</p>
-                <a class="btn btn--secondary" href="page-about.html">Read More <i class="energia-arrow-right"></i></a>
+                <a class="btn btn--secondary" href="page-about.php">Read More <i class="energia-arrow-right"></i></a>
               </div>
             </div>
             <div class="col-12 col-lg-5">
@@ -126,10 +126,10 @@
           <p class="heading-desc">Salum Transport offers comprehensive transportation services, from hotel staff shuttles to fuel distribution across Zanzibar. Our expertise ensures timely deliveries and reliable fuel supplies.</p>
           <p class="heading-desc">We manage transportation for 13 hotels, offer construction material transport, and provide fuel at competitive rates.</p>
           <div class="actions-holder">
-            <a class="btn btn--primary btn--inversed" href="page-contact.html">
+            <a class="btn btn--primary btn--inversed" href="page-contact.php">
               Get Started <i class="energia-arrow-right"></i>
             </a>
-            <a class="btn btn--bordered btn--white" href="page-about.html">Explore Our Services</a>
+            <a class="btn btn--bordered btn--white" href="page-about.php">Explore Our Services</a>
           </div>
         </div>
       </div>
@@ -146,7 +146,7 @@
               <h4>Staff Transportation</h4>
               <p>We provide safe and efficient transportation services for hotel staff across Zanzibar.</p>
             </div>
-            <a href="page-about.html">
+            <a href="page-about.php">
               <i class="energia-arrow-right"></i> <span>Explore More</span>
             </a>
           </div>
@@ -162,7 +162,7 @@
               <h4>Fuel Supply Services</h4>
               <p>We operate two fuel stations, offering diesel, petrol, and kerosene at affordable prices.</p>
             </div>
-            <a href="page-about.html">
+            <a href="page-about.php">
               <i class="energia-arrow-right"></i> <span>Explore More</span>
             </a>
           </div>
@@ -178,7 +178,7 @@
               <h4>Construction Material Transport</h4>
               <p>We transport building materials, including gravel, sand, and rubble, to various sites across Zanzibar.</p>
             </div>
-            <a href="page-about.html">
+            <a href="page-about.php">
               <i class="energia-arrow-right"></i> <span>Explore More</span>
             </a>
           </div>
@@ -194,7 +194,7 @@
               <h4>Customer Support</h4>
               <p>We provide round-the-clock support to ensure your deliveries and fuel supplies are always on time.</p>
             </div>
-            <a href="page-about.html">
+            <a href="page-about.php">
               <i class="energia-arrow-right"></i> <span>Explore More</span>
             </a>
           </div>
@@ -206,7 +206,7 @@
       <div class="col-12 col-lg-4">
         <div class="more-features">
           <p>If you have any questions or need help, reach out to our team. Call us anytime at <a href="tel:+255624123456">+255 777 416 880</a></p>
-          <a class="btn btn--bordered btn--white" href="page-about.html">
+          <a class="btn btn--bordered btn--white" href="page-about.php">
             Get A Quote <i class="energia-arrow-right"></i>
           </a>
         </div>
@@ -268,17 +268,17 @@
               </div>
             </div>
             <div class="entry-title">
-              <h4><a href="blog-single.html">Filing Solar Power Permits in 2020? Consider Following Important Factors</a></h4>
+              <h4><a href="blog-single.php">Filing Solar Power Permits in 2020? Consider Following Important Factors</a></h4>
             </div>
             <div class="entry-img-wrap">
-              <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/1.jpg" alt="Filing Solar Power Permits in 2020? Consider Following Important Factors" /></a></div>
-              <div class="entry-category"><a href="blog-grid.html">solar</a><a href="blog-grid.html">insights</a>
+              <div class="entry-img"><a href="blog-single.php"><img src="assets/images/blog/grid/1.jpg" alt="Filing Solar Power Permits in 2020? Consider Following Important Factors" /></a></div>
+              <div class="entry-category"><a href="blog-grid.php">solar</a><a href="blog-grid.php">insights</a>
               </div>
             </div>
             <div class="entry-bio">
               <p>All of these factors are important consider when permitting your solar system, and can help streamline your process. Take time to consider these.</p>
             </div>
-            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.html">read more <i class="energia-arrow-right"></i></a></div>
+            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.php">read more <i class="energia-arrow-right"></i></a></div>
           </div>
         </div>
       </div>
@@ -292,17 +292,17 @@
               </div>
             </div>
             <div class="entry-title">
-              <h4><a href="blog-single.html">How to Add Battery Backup to an Existing Grid Tied Solar System by Yourself!</a></h4>
+              <h4><a href="blog-single.php">How to Add Battery Backup to an Existing Grid Tied Solar System by Yourself!</a></h4>
             </div>
             <div class="entry-img-wrap">
-              <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/2.jpg" alt="How to Add Battery Backup to an Existing Grid Tied Solar System by Yourself!" /></a></div>
-              <div class="entry-category"><a href="blog-grid.html">systems</a><a href="blog-grid.html">battery</a>
+              <div class="entry-img"><a href="blog-single.php"><img src="assets/images/blog/grid/2.jpg" alt="How to Add Battery Backup to an Existing Grid Tied Solar System by Yourself!" /></a></div>
+              <div class="entry-category"><a href="blog-grid.php">systems</a><a href="blog-grid.php">battery</a>
               </div>
             </div>
             <div class="entry-bio">
               <p>Batteries are the most expensive part of a solar system. Between appropriately-size battery bank and a battery-based inverter like the Outback Radian.</p>
             </div>
-            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.html">read more <i class="energia-arrow-right"></i></a></div>
+            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.php">read more <i class="energia-arrow-right"></i></a></div>
           </div>
         </div>
       </div>
@@ -316,24 +316,24 @@
               </div>
             </div>
             <div class="entry-title">
-              <h4><a href="blog-single.html">Energy Department Research Will Help Eagles Coexist with Wind Energy Deployment</a></h4>
+              <h4><a href="blog-single.php">Energy Department Research Will Help Eagles Coexist with Wind Energy Deployment</a></h4>
             </div>
             <div class="entry-img-wrap">
-              <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/3.jpg" alt="Energy Department Research Will Help Eagles Coexist with Wind Energy Deployment" /></a></div>
-              <div class="entry-category"><a href="blog-grid.html">research</a><a href="blog-grid.html">energy</a>
+              <div class="entry-img"><a href="blog-single.php"><img src="assets/images/blog/grid/3.jpg" alt="Energy Department Research Will Help Eagles Coexist with Wind Energy Deployment" /></a></div>
+              <div class="entry-category"><a href="blog-grid.php">research</a><a href="blog-grid.php">energy</a>
               </div>
             </div>
             <div class="entry-bio">
               <p>Batteries are the most expensive part of a solar system. Between appropriately-size battery bank and a battery-based inverter like the Outback Radian.</p>
             </div>
-            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.html">read more <i class="energia-arrow-right"></i></a></div>
+            <div class="entry-more"> <a class="btn btn--white btn-bordered" href="blog-single.php">read more <i class="energia-arrow-right"></i></a></div>
           </div>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-12">
-        <div class="more-blog"><a href="blog-grid.html">find out more about our news!</a></div>
+        <div class="more-blog"><a href="blog-grid.php">find out more about our news!</a></div>
       </div>
     </div>
   </div>

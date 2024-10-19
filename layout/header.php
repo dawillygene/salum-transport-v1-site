@@ -4,7 +4,7 @@
       <header class="header header-light header-topbar header-topbar2 header-shadow" id="navbar-spy">
         <div class="top-bar top-bar-2">
           <div class="block-left"> 
-            <p class="headline"><i class="energia-alert-Icon"></i> now hiring: <a href="page-careers.html">Sales Person</a></p>
+            <p class="headline"><i class="energia-alert-Icon"></i> now hiring: <a href="#">Sales Person</a></p>
           </div>
           <div class="block-right">
             <div class="top-contact">
@@ -24,7 +24,7 @@
             <!-- End .social-links-->
           </div>
         </div>
-        <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu"><a class="navbar-brand" href="index-2.html"><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="salum transport logo"/><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="salum transport logo"/></a>
+        <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu"><a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="salum transport logo"/><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="salum transport logo"/></a>
           <div class="module-holder module-holder-phone">
             <div class="module module-search">
               <div class="module-icon module-icon-search"><i class="energia-search-Icon"></i></div>
@@ -48,7 +48,7 @@
                     </div><a class="cart-cancel" href="javascript:void(0)"><i class="fas fa-times"></i></a>
                   </li>
                 </ul><span>total: <i class="total-price">$null</i></span>
-                <div class="cart--control"> <a class="btn" href="shop-cart.html">view cart</a></div>
+                <div class="cart--control"> <a class="btn" href="#">view cart</a></div>
               </div>
             </div>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -92,7 +92,7 @@
                       </div><a class="cart-cancel" href="javascript:void(0)"><i class="fas fa-times"></i></a>
                     </li>
                   </ul><span>total: <i class="total-price">null</i></span>
-                  <div class="cart--control"> <a class="btn" href="shop-cart.html">view cart</a></div>
+                  <div class="cart--control"> <a class="btn" href="#">view cart</a></div>
                 </div>
               </div>
             </div>

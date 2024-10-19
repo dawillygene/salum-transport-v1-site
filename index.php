@@ -70,7 +70,7 @@
               <div class="slide-content">
                 <h1 class="slide-headline">Salum Transport company LTD</h1>
                 <p class="slide-desc">Welcome to Salum Transport Company Limited, located in Mwera Kigorofani, Zanzibar. We are proud to offer reliable fuel sales, including petrol, diesel, and kerosene, as well as efficient transportation services for hotel staff across the island.</p>
-                <div class="slide-action"><a class="btn btn--primary" href="page-services.php"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.html">more about us!</a></div>
+                <div class="slide-action"><a class="btn btn--primary" href="page-services.php"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.php">more about us!</a></div>
               </div>
             </div>
           </div>
@@ -84,7 +84,7 @@
               <div class="slide-content">
                 <h1 class="slide-headline">Reliable Fuel Supply & Transportation Solutions in Zanzibar</h1>
                 <p class="slide-desc">Welcome to Salum Transport Company Limited, located in Mwera Kigorofani, Zanzibar. We are proud to offer reliable fuel sales, including petrol, diesel, and kerosene, as well as efficient transportation services for hotel staff across the island.</p>
-                <div class="slide-action"><a class="btn btn--primary" href="page-services.html"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.html">more about us!</a></div>
+                <div class="slide-action"><a class="btn btn--primary" href="page-services.php"> <span>our services</span><i class="energia-arrow-right"></i></a><a class="btn btn--white justify-content-center" href="page-about.php">more about us!</a></div>
               </div>
             </div>
           </div>
@@ -174,7 +174,7 @@
         <div class="service-panel services-panel-2">
           <div class="service-icon"><i class="flaticon-030-fuel-pump"></i></div>
           <div class="service-content">
-            <h4><a href="services-fuel.html">Fuel Supply Services</a></h4>
+            <h4><a href="#">Fuel Supply Services</a></h4>
             <p>We supply premium-grade petrol, diesel, and kerosene to customers across Zanzibar, ensuring you get reliable energy for all your needs.</p>
             <a class="btn btn--secondary" href="page-services.php">read more <i class="energia-arrow-right"></i></a>
           </div>
@@ -184,7 +184,7 @@
         <div class="service-panel services-panel-2">
           <div class="service-icon"><i class="flaticon-050-bus"></i></div>
           <div class="service-content">
-            <h4><a href="services-transport.html">Staff Transportation Services</a></h4>
+            <h4><a href="#">Staff Transportation Services</a></h4>
             <p>Our bus transportation service ensures hotel staff are safely and punctually transported to their residences from any hotel in Zanzibar.</p>
             <a class="btn btn--secondary" href="page-services.php">read more <i class="energia-arrow-right"></i></a>
           </div>
